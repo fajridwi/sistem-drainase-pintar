@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Login - Sistem Drainase Pintar</title>
+        <title>Login - Sistem Pemantauan Banjir</title>
 
         {{-- Alpine.js --}}
         <script src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js" defer></script>
@@ -27,7 +27,7 @@
                     class="mx-auto w-36 h-36 mb-4">
 
                 <h1 class="text-3xl font-bold text-blue-700">
-                    Sistem Drainase Pintar
+                    Sistem Pemantauan Banjir
                 </h1>
                 <p class="text-gray-500 mt-1">Login ke sistem</p>
             </div>

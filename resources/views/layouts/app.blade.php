@@ -13,7 +13,7 @@
 <nav class="bg-blue-600 text-white">
     <div class="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
         <a href="/" class="font-bold text-lg">
-            Drainase Pintar
+            Sistem Pemantauan Banjir
         </a>
 
         <div class="space-x-6 hidden md:flex">
